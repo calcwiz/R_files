@@ -8,6 +8,7 @@ rm(list=ls())
 getwd()
 setwd("C:/Users/rvi2/Documents/GitHub/Data-and-society/R_files")
 
+I would like to add another comment
 
 # Load packages
 library(tidyverse)
