@@ -19,8 +19,7 @@ data <- read_excel("owid-covid-data.xlsx")
 data_2 <- read.csv("oil.csv")
 View(data_2)
 
-i AM ADDING MY COMMENTS 
-
+I would like to add a comment using a different color 
 
 
 
